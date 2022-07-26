@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 const Aboutus = () => {
     return (
-        <div style={{ margin:"3em 10em",display:"flex",flexDirection:"column",alignItems:"flex-start"}}>
+        <div  className="aboutus">
         <h3>About Us</h3>
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
@@ -10,7 +10,7 @@ const Aboutus = () => {
             quidem.lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
             quidem.lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
         </p>
-        <Button variant="outline-primary" size="lg" style={{alignSelf:"center"}}>Learn more</Button>
+        <Button variant="outline-primary" size="lg" className="button">Learn more</Button>
         </div>
     );
 }

@@ -1,7 +1,7 @@
 import{ Card,Button }from 'react-bootstrap';
 const Ourservices = () => {
     return (
-        <div style={{backgroundColor:"#2660a4",padding:"3em"}}>
+        <div style={{backgroundColor:"#2660a4",padding:"3em"}} className="servicecontainer">
             <h2 style={{ textAlign: "center",color:"white"}}>Ourservices</h2>
             <div className="servicesimages">
                 <Card style={{ width: '18rem' }}>

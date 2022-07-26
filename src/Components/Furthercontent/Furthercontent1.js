@@ -1,10 +1,10 @@
 import Button from 'react-bootstrap/Button';
 const Furthercontent1 = () => {
     return(
-    <div style={{ padding:"3em 10em",display:"flex",flexDirection:"column",alignItems:"flex-start"}}>
+    <div  className="Furthercontent1">
         
-        <div style={{display:"flex",alignItems:"center",gap:"2em"}}>
-        <p>
+        <div className="container">
+        <p style={{textAlign:"left"}}>
         <h3 style={{textAlign:"left"}}>Further content</h3>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
             quidem.lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
