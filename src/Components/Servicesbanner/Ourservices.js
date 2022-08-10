@@ -16,7 +16,6 @@ const Ourservices = () => {
                             At Chennai <br></br>
                             22, 23, 24 JULY 2022
                         </Card.Text>
-                        <Button variant="primary">Register</Button>
                     </Card.Body>
                 </Card>
                 <Card style={{ width: '18rem' }}>
@@ -27,7 +26,6 @@ const Ourservices = () => {
                             At Raipur, Chhattisgarh <br></br>
                             03, 04, 05 SEPTEMBER 2022
                         </Card.Text>
-                        <Button variant="primary">Register</Button>
                     </Card.Body>
                 </Card>
                 <Card style={{ width: '18rem' }}>
@@ -38,7 +36,6 @@ const Ourservices = () => {
                             At Chennai <br></br>
                             11, 12, 13 NOVEMBER 2022
                         </Card.Text>
-                        <Button variant="primary">Register</Button>
                     </Card.Body>
                 </Card>
                 <Card style={{ width: '18rem' }}>
@@ -49,7 +46,6 @@ const Ourservices = () => {
                             At Chennai <br></br>
                             11, 12, 13 NOVEMBER 2022
                         </Card.Text>
-                        <Button variant="primary">Register</Button>
                     </Card.Body>
                 </Card>
             </div>
